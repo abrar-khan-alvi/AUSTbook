@@ -21,6 +21,25 @@ AUSTbook is a dynamic web application built with PHP and hosted on an AWS EC2 in
 -   **Database:** SQLite (a simple, file-based SQL database)
 -   **Frontend Framework:** Bootstrap 5
 
+## AWS Deployment Showcase
+
+Visual proof of the cloud infrastructure hosting this application.
+
+### 1. EC2 Instance Dashboard
+*The virtual server running on AWS.*
+
+<!-- DRAG AND DROP YOUR ec2-dashboard.png IMAGE HERE -->
+
+### 2. Security Group Configuration
+*The firewall rules allowing web (HTTP) and management (SSH) access.*
+
+<!-- DRAG AND DROP YOUR security-group-rules.png IMAGE HERE -->
+
+### 3. Live Application on EC2 Public IP
+*The final application running, accessed via its public IP address provided by EC2.*
+
+<!-- DRAG AND DROP YOUR live-application.png IMAGE HERE -->
+
 ## Setup and Installation
 
 To deploy this project on your own EC2 instance, follow these steps:
