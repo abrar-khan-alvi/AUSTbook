@@ -28,18 +28,18 @@ Visual proof of the cloud infrastructure hosting this application.
 ### 1. EC2 Instance Dashboard
 *The virtual server running on AWS.*
 
-<!-- DRAG AND DROP YOUR ec2-dashboard.png IMAGE HERE -->
+![alt text](https://github.com/abrar-khan-alvi/AUSTbook/blob/main/ec2-dashboard.png)
 
 ### 2. Security Group Configuration
 *The firewall rules allowing web (HTTP) and management (SSH) access.*
 
-<!-- DRAG AND DROP YOUR security-group-rules.png IMAGE HERE -->
+![alt text](https://github.com/abrar-khan-alvi/AUSTbook/blob/main/security-group-rules.png)
 
 ### 3. Live Application on EC2 Public IP
 *The final application running, accessed via its public IP address provided by EC2.*
 
-<!-- DRAG AND DROP YOUR live-application.png IMAGE HERE -->
-
+![alt text](https://github.com/abrar-khan-alvi/AUSTbook/blob/main/public-ip-address.png)
+![alt text](https://github.com/abrar-khan-alvi/AUSTbook/blob/main/live-application.png)
 ## Setup and Installation
 
 To deploy this project on your own EC2 instance, follow these steps:
