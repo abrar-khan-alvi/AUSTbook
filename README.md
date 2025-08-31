@@ -82,8 +82,8 @@ To deploy this project on your own EC2 instance, follow these steps:
         echo "Admin user created. Please delete this file immediately.";
         ?>
         ```
-    -   Visit `http://http://65.0.27.104//create_admin.php` in your browser to run the script.
+    -   Visit `http://<your-ec2-ip>/create_admin.php` in your browser to run the script.
     -   **CRITICAL:** After creating the admin, delete the file from your server: `sudo rm /var/www/html/create_admin.php`.
 
 6.  **Access Your Site:**
-    -   You can now access your AUSTbook application by navigating to your EC2 instance's public IP address: `http://http://65.0.27.104//signup.php`.
+    -   You can now access your AUSTbook application by navigating to your EC2 instance's public IP address: `http://<your-ec2-ip>/signup.php`.
